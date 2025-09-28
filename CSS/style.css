@@ -1,0 +1,76 @@
+
+.header-img {
+    background: url('../Images/coffee-bgnd.jpeg') center/cover no-repeat;
+    height: 300px;
+}
+
+
+.header-title {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: violet;
+    margin: 0;
+
+    font-family: 'Pacifico', cursive;
+    font-size: 3rem;
+}
+
+
+.coffee-text {
+    color: #6b4f32;
+}
+
+.btn-coffee {
+    color: #6b4f32;
+    border: 1px solid #6b4f32;
+    background-color: transparent;
+    transition: all 0.3s ease;
+}
+
+.btn-coffee:hover {
+    background-color: #6b4f32;
+    color: #fff;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 10px;
+    background-color: #E6E6FA;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translate(-5px);
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+.card-brazil {
+    background-color: #E6E6FA;
+}
+
+.card-india {
+    background-color: #F0E68C;
+}
+
+.card-costa-rica {
+    background-color: #FFDAB9;
+}
+
+.card-colombia {
+    background-color: #D8BFD8;
+}
+
+.card-ethiopia {
+    background-color: #E0FFFF;
+}
+
+.card-kenya {
+    background-color: #FFE4E1;
+}
