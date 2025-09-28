@@ -74,3 +74,13 @@ body {
 .card-kenya {
     background-color: #FFE4E1;
 }
+
+.card.h-100 .card-body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card.h-100 .btn {
+    margin-top: auto;
+}
